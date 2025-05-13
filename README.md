@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <body>
-      <h1>Welcome to my E-Portfolio</h1>
-      <p><a href="Module06-Project-LeslieGabriel.pdf">Module 6 Research Paper</a></p>
-      <p><a href="index.html">View My Website</a></p>
-  </body>
-</html>
+# ITE152 Assignment  
+- **Research Paper**: [PDF](Research_Paper.pdf)  
+- **Website**: [Live Demo](index.html)  
+- **GitHub Repo**: [View Files](https://github.com/fayganbp/fayganbp.github.io/tree/main/ITE152)  
